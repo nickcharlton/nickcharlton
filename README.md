@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 I'm Nick (he/him), I maintain [Administrate][1], [Appraisal][2] and a [bunch
+of other things][3].
 
-<!--
-**nickcharlton/nickcharlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer and Team Lead at [thoughtbot][4], where I do a combination of
+leading projects, managing a team and helping clients ship excellent software.
+Talk to me if you're interested in working with us, or joining thoughtbot!
 
-Here are some ideas to get you started:
+I'm often a bit slow at responding, so give me time, I do get to it eventually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://github.com/thoughtbot/administrate
+[2]: https://github.com/thoughtbot/appraisal
+[3]: https://github.com/nickcharlton?tab=repositories
+[4]: https://thoughtbot.com
