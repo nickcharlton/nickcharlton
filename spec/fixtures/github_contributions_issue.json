@@ -1,0 +1,77 @@
+{
+  "total_count": 419,
+  "incomplete_results": false,
+  "items": [
+    {
+      "url": "https://api.github.com/repos/wearerequired/lint-action/issues/495",
+      "repository_url": "https://api.github.com/repos/wearerequired/lint-action",
+      "labels_url": "https://api.github.com/repos/wearerequired/lint-action/issues/495/labels{/name}",
+      "comments_url": "https://api.github.com/repos/wearerequired/lint-action/issues/495/comments",
+      "events_url": "https://api.github.com/repos/wearerequired/lint-action/issues/495/events",
+      "html_url": "https://github.com/wearerequired/lint-action/issues/495",
+      "id": 1300790774,
+      "node_id": "I_kwDODa6Kn85NiH32",
+      "number": 495,
+      "title": "ERB Lint fails with not installed error",
+      "user": {
+        "login": "nickcharlton",
+        "id": 11917,
+        "node_id": "MDQ6VXNlcjExOTE3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11917?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/nickcharlton",
+        "html_url": "https://github.com/nickcharlton",
+        "followers_url": "https://api.github.com/users/nickcharlton/followers",
+        "following_url": "https://api.github.com/users/nickcharlton/following{/other_user}",
+        "gists_url": "https://api.github.com/users/nickcharlton/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/nickcharlton/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/nickcharlton/subscriptions",
+        "organizations_url": "https://api.github.com/users/nickcharlton/orgs",
+        "repos_url": "https://api.github.com/users/nickcharlton/repos",
+        "events_url": "https://api.github.com/users/nickcharlton/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/nickcharlton/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "labels": [
+        {
+          "id": 1747827427,
+          "node_id": "MDU6TGFiZWwxNzQ3ODI3NDI3",
+          "url": "https://api.github.com/repos/wearerequired/lint-action/labels/question",
+          "name": "question",
+          "color": "d876e3",
+          "default": true,
+          "description": "Further information is requested"
+        }
+      ],
+      "state": "open",
+      "locked": false,
+      "assignee": null,
+      "assignees": [],
+      "milestone": null,
+      "comments": 1,
+      "created_at": "2022-07-11T14:25:51Z",
+      "updated_at": "2022-07-20T06:24:17Z",
+      "closed_at": null,
+      "author_association": "NONE",
+      "active_lock_reason": null,
+      "body": "I'm trying out using this action on a project where we were already using `erblint` (originally on CircleCI as part of our build). I moved over to a single lint action, but unfortunately, I'm not able to run `erblint`:\r\n\r\n```\r\nRun wearerequired/lint-action@v2.0.1\r\nSHA of last commit is \"0e9d5bbff931342955546576f53368edfc1f4d6e\"\r\nRun ERB Lint\r\n  Verifying setup for ERB Lint…\r\n  /bin/sh: 1: erblint: not found\r\n  Error: ERB Lint is not installed\r\n```\r\n\r\n```yaml\r\n---\r\nname: Lint\r\non: [push]\r\n\r\njobs:\r\n  build:\r\n    runs-on: ubuntu-latest\r\n\r\n    permissions:\r\n      contents: read\r\n      checks: write\r\n\r\n    steps:\r\n      - uses: actions/checkout@v3\r\n      - name: Lint with StandardRB\r\n        uses: testdouble/standard-ruby-action@v0.0.4\r\n        env:\r\n          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}\r\n      - name: Lint with other checks\r\n        uses: wearerequired/lint-action@v2.0.1\r\n        with:\r\n          eslint: true\r\n          erblint: true\r\n```\r\n\r\nAny thoughts on what I could try out here, or what might be wrong?",
+      "reactions": {
+        "url": "https://api.github.com/repos/wearerequired/lint-action/issues/495/reactions",
+        "total_count": 0,
+        "+1": 0,
+        "-1": 0,
+        "laugh": 0,
+        "hooray": 0,
+        "confused": 0,
+        "heart": 0,
+        "rocket": 0,
+        "eyes": 0
+      },
+      "timeline_url": "https://api.github.com/repos/wearerequired/lint-action/issues/495/timeline",
+      "performed_via_github_app": null,
+      "state_reason": null,
+      "score": 1
+    }
+  ]
+}
