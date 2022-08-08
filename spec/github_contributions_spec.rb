@@ -1,5 +1,5 @@
 require "spec_helper"
-require "github_contributions"
+require "github_readme"
 
 RSpec.describe GithubContributions do
   describe "#recent" do
