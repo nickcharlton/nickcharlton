@@ -7,6 +7,11 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 
 I'm often a bit slow at responding, so give me time, I do get to it eventually.
 
+### Recent contributions
+
+<!-- contributions starts -->
+<!-- contributions ends -->
+
 [1]: https://github.com/thoughtbot/administrate
 [2]: https://github.com/thoughtbot/appraisal
 [3]: https://github.com/nickcharlton?tab=repositories
