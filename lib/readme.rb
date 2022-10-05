@@ -3,12 +3,12 @@ class Readme
     @file_path = file_path
   end
 
-  def update_contributions(contributions)
+  def update(section:, contributions:)
     content = contributions.map do |contribution|
       "[#{contribution.title}](#{contribution.url})\n"
     end.join("\n")
 
-    new_contents = insert(file_contents, "contributions", content)
+    new_contents = insert(file_contents, section, content)
     File.write(file_path, new_contents)
   end
 

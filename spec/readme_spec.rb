@@ -12,7 +12,7 @@ RSpec.describe Readme do
                                  url: "http://example.com")
         ]
 
-        readme.update_contributions(contributions)
+        readme.update(section: "contributions", contributions: contributions)
 
         expect(File.read("README.md")).to include(
           "[A contribution](http://example.com)"

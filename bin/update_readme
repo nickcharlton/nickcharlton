@@ -5,8 +5,9 @@ $:.push File.expand_path("../lib", __dir__)
 require "pry"
 require "github_readme"
 
-contributions = GithubContributions.new(username: "nickcharlton")
-recent = contributions.recent
-
 readme = Readme.new("README.md")
-readme.update_contributions(recent)
+contributions = GithubContributions.new(username: "nickcharlton")
+blog = RssFeed.new(url: "https://nickcharlton.net/atom.xml")
+
+readme.update(section: "contributions", contributions: contributions.recent)
+readme.update(section: "blog", contributions: blog.recent)

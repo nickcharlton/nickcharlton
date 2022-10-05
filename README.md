@@ -7,10 +7,19 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 
 I'm often a bit slow at responding, so give me time, I do get to it eventually.
 
+<table><tr><td valign="top" width="50%">
+
 ### Recent contributions
 
 <!-- contributions starts -->
 <!-- contributions ends -->
+</td><td valign="top" width="50%">
+
+### Blog posts
+
+<!-- blog starts -->
+<!-- blog ends -->
+</td></tr></table>
 
 [1]: https://github.com/thoughtbot/administrate
 [2]: https://github.com/thoughtbot/appraisal
