@@ -38,7 +38,6 @@ class GithubContributions
     {
       "User-Agent" => "Recent GitHub Contributions (#{username})",
       "Accept" => "application/vnd.github+json",
-      "Authorization" => "token #{ENV['GITHUB_TOKEN']}"
     }
   end
 end
