@@ -12,12 +12,32 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+[Add a GitHub Action to refresh the README](https://github.com/nickcharlton/nickcharlton/pull/3)
+
+[Add a GitHub Action to run the tests](https://github.com/nickcharlton/nickcharlton/pull/2)
+
+[Add ability to render the README from GitHub Contributions & Blog Posts](https://github.com/nickcharlton/nickcharlton/pull/1)
+
+[ERB Lint fails with not installed error](https://github.com/wearerequired/lint-action/issues/495)
+
+[Add a command for printing rasterized text](https://github.com/lukevp/ESC-POS-.NET/pull/165)
+
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
 
 ### Blog posts
 
 <!-- blog starts -->
+[Week Notes #31](https://nickcharlton.net/posts/week-notes-31.html)
+
+[Converting Unix Shell Aliases to PowerShell](https://nickcharlton.net/posts/converting-unix-shell-aliases-to-powershell.html)
+
+[Week Notes #30](https://nickcharlton.net/posts/week-notes-30.html)
+
+[Week Notes #29](https://nickcharlton.net/posts/week-notes-29.html)
+
+[Switching to FeedBin and NetNewsWire](https://nickcharlton.net/posts/switching-to-feedbin-and-netnewswire.html)
+
 <!-- blog ends -->
 </td></tr></table>
 
