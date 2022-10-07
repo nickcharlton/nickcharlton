@@ -10,5 +10,14 @@ class Contribution
     @created_at = created_at
     @updated_at = updated_at
   end
-end
 
+  def to_readme_line
+    "![](#{icon_path}) [#{title}](#{url})\n"
+  end
+
+  private
+
+  def icon_path
+    "icons/#{type}_#{state}.svg"
+  end
+end

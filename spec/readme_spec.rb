@@ -8,14 +8,21 @@ RSpec.describe Readme do
         File.write("README.md", readme_body)
         readme = described_class.new("README.md")
         contributions = [
-          double("Contribution", title: "A contribution",
-                                 url: "http://example.com")
+          Contribution.new(
+            id: nil,
+            title: "A contribution",
+            url: "http://example.com",
+            state: "open",
+            type: "issue",
+            created_at: nil,
+            updated_at: nil,
+          )
         ]
 
         readme.update(section: "contributions", contributions: contributions)
 
         expect(File.read("README.md")).to include(
-          "[A contribution](http://example.com)"
+          "![](icons/issue_open.svg) [A contribution](http://example.com)"
         )
       end
     end
