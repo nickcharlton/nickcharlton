@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+[Fix images in RSS in recent posts](https://github.com/nickcharlton/site/pull/93)
+
 [Add post on GitHub README](https://github.com/nickcharlton/site/pull/92)
 
 [Add post on flashing IKEA BEKANT controller](https://github.com/nickcharlton/site/pull/91)
@@ -20,14 +22,14 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 
 [Add a GitHub Action to run the tests](https://github.com/nickcharlton/nickcharlton/pull/2)
 
-[Add ability to render the README from GitHub Contributions & Blog Posts](https://github.com/nickcharlton/nickcharlton/pull/1)
-
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
 
 ### Blog posts
 
 <!-- blog starts -->
+[Self-updating GitHub README](https://nickcharlton.net/posts/self-updating-github-readme.html)
+
 [Flashing the firmware in an IKEA BEKANT to add position memory](https://nickcharlton.net/posts/flashing-the-firmward-in-an-ikea-bekant.html)
 
 [Week Notes #31](https://nickcharlton.net/posts/week-notes-31.html)
@@ -35,8 +37,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 [Converting Unix Shell Aliases to PowerShell](https://nickcharlton.net/posts/converting-unix-shell-aliases-to-powershell.html)
 
 [Week Notes #30](https://nickcharlton.net/posts/week-notes-30.html)
-
-[Week Notes #29](https://nickcharlton.net/posts/week-notes-29.html)
 
 <!-- blog ends -->
 </td></tr></table>
