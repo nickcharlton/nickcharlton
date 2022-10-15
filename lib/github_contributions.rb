@@ -14,12 +14,19 @@ class GithubContributions
     data = JSON.parse(response.body, symbolize_names: true)
 
     data[:items].map do |item|
+      type = item.has_key?(:pull_request) ? "pull_request" : "issue"
+      state = item[:draft] ? "draft" : item[:state]
+
+      if type == "pull_request"
+        state = item[:pull_request][:merged_at] ? "merged" : state
+      end
+
       Contribution.new(
         id: item[:id],
         title: item[:title],
         url: item[:html_url],
-        state: item[:state],
-        type: item.has_key?(:pull_request) ? "pull_request" : "issue",
+        state: state,
+        type: type,
         created_at: item[:created_at],
         updated_at: item[:updated_at]
       )

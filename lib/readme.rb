@@ -4,10 +4,7 @@ class Readme
   end
 
   def update(section:, contributions:)
-    content = contributions.map do |contribution|
-      "[#{contribution.title}](#{contribution.url})\n"
-    end.join("\n")
-
+    content = contributions.map(&:to_readme_line).join("\n")
     new_contents = insert(file_contents, section, content)
     File.write(file_path, new_contents)
   end
