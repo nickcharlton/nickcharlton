@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Add icons to GitHub contributions](https://github.com/nickcharlton/nickcharlton/pull/4)
+
 ![](icons/pull_request_open.svg) [Fix images in RSS in recent posts](https://github.com/nickcharlton/site/pull/93)
 
 ![](icons/pull_request_merged.svg) [Add post on GitHub README](https://github.com/nickcharlton/site/pull/92)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Add post on flashing IKEA BEKANT controller](https://github.com/nickcharlton/site/pull/91)
 
 ![](icons/pull_request_merged.svg) [Add a GitHub Action to refresh the README](https://github.com/nickcharlton/nickcharlton/pull/3)
-
-![](icons/pull_request_merged.svg) [Add a GitHub Action to run the tests](https://github.com/nickcharlton/nickcharlton/pull/2)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
