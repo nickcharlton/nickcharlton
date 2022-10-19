@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Remove more `published:` frontmatter](https://github.com/nickcharlton/site/pull/101)
+
 ![](icons/pull_request_merged.svg) [Add in links to Giant Robots posts](https://github.com/nickcharlton/site/pull/100)
 
 ![](icons/pull_request_merged.svg) [Add a tags page and link to tags from posts](https://github.com/nickcharlton/site/pull/99)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Fix duplicated commas in tags](https://github.com/nickcharlton/site/pull/98)
 
 ![](icons/pull_request_merged.svg) [Remove published frontmatter](https://github.com/nickcharlton/site/pull/97)
-
-![](icons/pull_request_merged.svg) [Add text manipulation actions to Drafts post](https://github.com/nickcharlton/site/pull/96)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
