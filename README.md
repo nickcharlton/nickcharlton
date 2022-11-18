@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Add link to Site Config post on Giant Robots](https://github.com/nickcharlton/site/pull/102)
+
 ![](icons/pull_request_merged.svg) [Remove more `published:` frontmatter](https://github.com/nickcharlton/site/pull/101)
 
 ![](icons/pull_request_merged.svg) [Add in links to Giant Robots posts](https://github.com/nickcharlton/site/pull/100)
@@ -20,14 +22,14 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 
 ![](icons/pull_request_merged.svg) [Fix duplicated commas in tags](https://github.com/nickcharlton/site/pull/98)
 
-![](icons/pull_request_merged.svg) [Remove published frontmatter](https://github.com/nickcharlton/site/pull/97)
-
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
 
 ### Blog posts
 
 <!-- blog starts -->
+[Site-wide configuration with Administrate](https://nickcharlton.net/posts/site-wide-configuration-with-administrate.html)
+
 [Self-updating GitHub README](https://nickcharlton.net/posts/self-updating-github-readme.html)
 
 [Flashing the firmware in an IKEA BEKANT to add position memory](https://nickcharlton.net/posts/flashing-the-firmward-in-an-ikea-bekant.html)
@@ -35,8 +37,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 [Using HTTPListener to build a HTTP Server in C#](https://nickcharlton.net/posts/using-httplistener-to-build-a-http-server-in-csharp.html)
 
 [Week Notes #31](https://nickcharlton.net/posts/week-notes-31.html)
-
-[Converting Unix Shell Aliases to PowerShell](https://nickcharlton.net/posts/converting-unix-shell-aliases-to-powershell.html)
 
 <!-- blog ends -->
 </td></tr></table>
