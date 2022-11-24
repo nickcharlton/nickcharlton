@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Add post on Azure Site-to-Site VPN](https://github.com/nickcharlton/site/pull/105)
+
 ![](icons/pull_request_merged.svg) [Add On to Mastodon post](https://github.com/nickcharlton/site/pull/104)
 
 ![](icons/pull_request_merged.svg) [Add Mastodon WebFinger redirects](https://github.com/nickcharlton/site/pull/103)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Add link to Site Config post on Giant Robots](https://github.com/nickcharlton/site/pull/102)
 
 ![](icons/pull_request_merged.svg) [Remove more `published:` frontmatter](https://github.com/nickcharlton/site/pull/101)
-
-![](icons/pull_request_merged.svg) [Add in links to Giant Robots posts](https://github.com/nickcharlton/site/pull/100)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
