@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Add nickcharlton.net](https://github.com/xdesro/personalsit.es/pull/645)
+
+![](icons/pull_request_merged.svg) [Switch projects page to a GitHub link](https://github.com/nickcharlton/site/pull/106)
+
 ![](icons/pull_request_open.svg) [Support new VyOS build script](https://github.com/DMarby/vyos-tailscale/pull/3)
 
 ![](icons/pull_request_open.svg) [Implement a basic installer using Wix v3](https://github.com/nickcharlton/1password-cli-msi-installer/pull/1)
 
 ![](icons/pull_request_open.svg) [Add post on Azure Site-to-Site VPN](https://github.com/nickcharlton/site/pull/105)
-
-![](icons/pull_request_merged.svg) [Add On to Mastodon post](https://github.com/nickcharlton/site/pull/104)
-
-![](icons/pull_request_merged.svg) [Add Mastodon WebFinger redirects](https://github.com/nickcharlton/site/pull/103)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
