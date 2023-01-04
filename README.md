@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Add post on Azure Site-to-Site VPN](https://github.com/nickcharlton/site/pull/105)
+
 ![](icons/pull_request_open.svg) [Add nickcharlton.net](https://github.com/xdesro/personalsit.es/pull/645)
 
 ![](icons/pull_request_merged.svg) [Switch projects page to a GitHub link](https://github.com/nickcharlton/site/pull/106)
@@ -20,14 +22,14 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 
 ![](icons/pull_request_open.svg) [Implement a basic installer using Wix v3](https://github.com/nickcharlton/1password-cli-msi-installer/pull/1)
 
-![](icons/pull_request_open.svg) [Add post on Azure Site-to-Site VPN](https://github.com/nickcharlton/site/pull/105)
-
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
 
 ### Blog posts
 
 <!-- blog starts -->
+[Setting up an Azure Site-to-Site VPN to a Ubiquiti EdgeRouter through NAT](https://nickcharlton.net/posts/azure-site-to-site-vpn-ubiquiti-edgerouter-nat.html)
+
 [On to Mastodon](https://nickcharlton.net/posts/on-to-mastodon.html)
 
 [Site-wide configuration with Administrate](https://nickcharlton.net/posts/site-wide-configuration-with-administrate.html)
@@ -35,8 +37,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 [Self-updating GitHub README](https://nickcharlton.net/posts/self-updating-github-readme.html)
 
 [Flashing the firmware in an IKEA BEKANT to add position memory](https://nickcharlton.net/posts/flashing-the-firmward-in-an-ikea-bekant.html)
-
-[Using HTTPListener to build a HTTP Server in C#](https://nickcharlton.net/posts/using-httplistener-to-build-a-http-server-in-csharp.html)
 
 <!-- blog ends -->
 </td></tr></table>
