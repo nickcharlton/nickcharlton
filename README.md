@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
+
 ![](icons/pull_request_open.svg) [Switch from pry-rails to pry](https://github.com/thoughtbot/administrate/pull/2322)
 
 ![](icons/pull_request_open.svg) [Start testing Ruby 3.2 on CircleCI](https://github.com/thoughtbot/administrate/pull/2323)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Bump Rails dependencies to 6.1.7.2](https://github.com/thoughtbot/administrate/pull/2318)
 
 ![](icons/pull_request_merged.svg) [Fix Selenium deprecation warnings on headless/opts](https://github.com/thoughtbot/administrate/pull/2319)
-
-![](icons/pull_request_merged.svg) [Switch to testing against Postgres 15](https://github.com/thoughtbot/administrate/pull/2321)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
