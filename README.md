@@ -14,13 +14,13 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 <!-- contributions starts -->
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
-![](icons/pull_request_draft.svg) [Cache Appraisal dependencies across CI builds](https://github.com/thoughtbot/administrate/pull/1549)
+![](icons/pull_request_merged.svg) [Split binstubs from accepance test helpers install](https://github.com/thoughtbot/appraisal/pull/209)
 
-![](icons/pull_request_open.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
+![](icons/pull_request_merged.svg) [Drop support for Travis CI](https://github.com/thoughtbot/appraisal/pull/208)
 
-![](icons/pull_request_merged.svg) [Start testing Ruby 3.2 on CircleCI](https://github.com/thoughtbot/administrate/pull/2323)
+![](icons/pull_request_merged.svg) [Fix missing source deprecation warning](https://github.com/thoughtbot/appraisal/pull/207)
 
-![](icons/pull_request_merged.svg) [Switch from pry-rails to pry](https://github.com/thoughtbot/administrate/pull/2322)
+![](icons/pull_request_open.svg) [Allow deleting by keypath](https://github.com/nickcharlton/keypath-ruby/pull/13)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
