@@ -12,13 +12,13 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
+
 ![](icons/pull_request_merged.svg) [Add post on debugging Supermicro NIC problems](https://github.com/nickcharlton/site/pull/108)
 
 ![](icons/pull_request_merged.svg) [Add post on Building a 1Password CLI installer](https://github.com/nickcharlton/site/pull/107)
 
 ![](icons/pull_request_merged.svg) [Implement a basic installer using Wix v3](https://github.com/nickcharlton/1password-cli-msi-installer/pull/1)
-
-![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
