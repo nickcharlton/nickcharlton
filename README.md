@@ -14,13 +14,13 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 <!-- contributions starts -->
 ![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
+![](icons/pull_request_open.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
+
 ![](icons/pull_request_merged.svg) [Bump Rails dependencies to 6.1.7.3](https://github.com/thoughtbot/administrate/pull/2341)
 
 ![](icons/pull_request_merged.svg) [Add post on debugging Supermicro NIC problems](https://github.com/nickcharlton/site/pull/108)
 
 ![](icons/pull_request_merged.svg) [Add post on Building a 1Password CLI installer](https://github.com/nickcharlton/site/pull/107)
-
-![](icons/pull_request_merged.svg) [Implement a basic installer using Wix v3](https://github.com/nickcharlton/1password-cli-msi-installer/pull/1)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
