@@ -20,7 +20,7 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 
 ![](icons/pull_request_merged.svg) [Bump Rails dependencies to 6.1.7.3](https://github.com/thoughtbot/administrate/pull/2341)
 
-![](icons/pull_request_merged.svg) [Add post on debugging Supermicro NIC problems](https://github.com/nickcharlton/site/pull/108)
+![](icons/pull_request_merged.svg) [Add post on Building a 1Password CLI installer](https://github.com/nickcharlton/site/pull/107)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
