@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Fix Rails 6.0 `load_server` incompatibility](https://github.com/thoughtbot/administrate/pull/2399)
+
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/pull_request_merged.svg) [Add a script to generate a draft CHANGELOG update](https://github.com/thoughtbot/administrate/pull/2377)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Upgrade Rails from 7.0.4.3 to 7.0.5.1](https://github.com/thoughtbot/administrate/pull/2395)
 
 ![](icons/pull_request_merged.svg) [Update Appraisals](https://github.com/thoughtbot/administrate/pull/2394)
-
-![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
