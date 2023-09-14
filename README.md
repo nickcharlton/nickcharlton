@@ -12,7 +12,7 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Add a GitHub Actions workflow using a shared-setup](https://github.com/nickcharlton/react-native-actions-example/pull/1)
+![](icons/pull_request_merged.svg) [Add a GitHub Actions workflow using a shared-setup](https://github.com/nickcharlton/react-native-actions-example/pull/1)
 
 ![](icons/pull_request_open.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
 
