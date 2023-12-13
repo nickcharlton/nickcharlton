@@ -14,13 +14,13 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 <!-- contributions starts -->
 ![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
-![](icons/pull_request_open.svg) [Add pathname which is implicitly referenced](https://github.com/thoughtbot/suspenders/pull/1134)
+![](icons/pull_request_open.svg) [Remove CircleCI](https://github.com/thoughtbot/administrate/pull/2473)
 
-![](icons/issue_open.svg) [Suspenders fails to generate because Redis 4 is wanted, but only 5 is available](https://github.com/thoughtbot/suspenders/issues/1133)
+![](icons/pull_request_merged.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
 
-![](icons/pull_request_merged.svg) [Add a GitHub Actions workflow using a shared-setup](https://github.com/nickcharlton/react-native-actions-example/pull/1)
+![](icons/pull_request_merged.svg) [Update Gemfile.lock](https://github.com/thoughtbot/administrate/pull/2472)
 
-![](icons/pull_request_open.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
+![](icons/pull_request_merged.svg) [Update i18n-tasks in Appraisals](https://github.com/thoughtbot/administrate/pull/2471)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
