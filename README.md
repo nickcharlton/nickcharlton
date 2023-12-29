@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
-
 ![](icons/pull_request_open.svg) [Remove CircleCI](https://github.com/thoughtbot/administrate/pull/2473)
+
+![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
 ![](icons/pull_request_merged.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
 
