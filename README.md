@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Start testing against Ruby 3.3](https://github.com/thoughtbot/administrate/pull/2483)
+
 ![](icons/pull_request_open.svg) [Remove CircleCI](https://github.com/thoughtbot/administrate/pull/2473)
 
 ![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
 
 ![](icons/pull_request_merged.svg) [Update Gemfile.lock](https://github.com/thoughtbot/administrate/pull/2472)
-
-![](icons/pull_request_merged.svg) [Update i18n-tasks in Appraisals](https://github.com/thoughtbot/administrate/pull/2471)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
