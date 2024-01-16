@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Switch to the Sentry Ruby & Rails gems](https://github.com/thoughtbot/administrate/pull/2485)
+
+![](icons/pull_request_open.svg) [Add post on working around unsupported SFP modules](https://github.com/nickcharlton/site/pull/110)
+
 ![](icons/pull_request_merged.svg) [Add the post on GitHub Checks Stylesheet](https://github.com/nickcharlton/site/pull/109)
 
 ![](icons/pull_request_merged.svg) [Start testing against Ruby 3.3](https://github.com/thoughtbot/administrate/pull/2483)
 
 ![](icons/pull_request_open.svg) [Remove CircleCI](https://github.com/thoughtbot/administrate/pull/2473)
-
-![](icons/issue_open.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
-
-![](icons/pull_request_merged.svg) [Add a basic GitHub Actions CI workflow](https://github.com/thoughtbot/administrate/pull/1932)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
