@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Switch to using @thoughtbot/stylelint-config](https://github.com/thoughtbot/administrate/pull/2492)
+![](icons/pull_request_draft.svg) [Start testing against a sample](https://github.com/thoughtbot/stylelint-config/pull/51)
 
-![](icons/pull_request_merged.svg) [Switch to the Sentry Ruby & Rails gems](https://github.com/thoughtbot/administrate/pull/2485)
+![](icons/pull_request_merged.svg) [Fix thoughtbot README logo](https://github.com/thoughtbot/stylelint-config/pull/50)
 
-![](icons/pull_request_merged.svg) [Remove CircleCI](https://github.com/thoughtbot/administrate/pull/2473)
+![](icons/pull_request_open.svg) [Remove Atom editor configuration](https://github.com/thoughtbot/stylelint-config/pull/49)
 
-![](icons/pull_request_merged.svg) [Add post on working around unsupported SFP modules](https://github.com/nickcharlton/site/pull/110)
+![](icons/pull_request_merged.svg) [Fix link to Sass guides](https://github.com/thoughtbot/stylelint-config/pull/48)
 
-![](icons/pull_request_merged.svg) [Add the post on GitHub Checks Stylesheet](https://github.com/nickcharlton/site/pull/109)
+![](icons/pull_request_merged.svg) [Upgrade Node to v20.11.0](https://github.com/thoughtbot/stylelint-config/pull/47)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
