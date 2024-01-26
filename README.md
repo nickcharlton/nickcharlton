@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_draft.svg) [Start testing against a sample](https://github.com/thoughtbot/stylelint-config/pull/51)
+![](icons/pull_request_merged.svg) [Add CONTRIBUTING](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/78)
 
-![](icons/pull_request_merged.svg) [Fix thoughtbot README logo](https://github.com/thoughtbot/stylelint-config/pull/50)
+![](icons/pull_request_merged.svg) [Add the thoughtbot CoC](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/76)
 
-![](icons/pull_request_open.svg) [Remove Atom editor configuration](https://github.com/thoughtbot/stylelint-config/pull/49)
+![](icons/pull_request_merged.svg) [Add SECURITY](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/77)
 
-![](icons/pull_request_merged.svg) [Fix link to Sass guides](https://github.com/thoughtbot/stylelint-config/pull/48)
+![](icons/pull_request_merged.svg) [Add LICENSE](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/75)
 
-![](icons/pull_request_merged.svg) [Upgrade Node to v20.11.0](https://github.com/thoughtbot/stylelint-config/pull/47)
+![](icons/pull_request_merged.svg) [Add a script to build the changelog](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/74)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
