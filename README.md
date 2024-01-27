@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Enable running workflows from forks](https://github.com/thoughtbot/administrate/pull/2498)
+
 ![](icons/pull_request_merged.svg) [Add CONTRIBUTING](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/78)
 
 ![](icons/pull_request_merged.svg) [Add the thoughtbot CoC](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/76)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Add SECURITY](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/77)
 
 ![](icons/pull_request_merged.svg) [Add LICENSE](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/75)
-
-![](icons/pull_request_merged.svg) [Add a script to build the changelog](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/74)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
