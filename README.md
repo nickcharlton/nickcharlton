@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_merged.svg) [Enable running workflows from forks](https://github.com/thoughtbot/administrate/pull/2498)
+![](icons/pull_request_open.svg) [Remove deprecated rules, but test for future ones](https://github.com/thoughtbot/stylelint-config/pull/52)
 
-![](icons/pull_request_merged.svg) [Add CONTRIBUTING](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/78)
+![](icons/issue_open.svg) [Incompatibility with `importmap-rails`](https://github.com/thoughtbot/administrate/issues/2501)
 
-![](icons/pull_request_merged.svg) [Add the thoughtbot CoC](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/76)
+![](icons/pull_request_merged.svg) [Remove Atom editor configuration](https://github.com/thoughtbot/stylelint-config/pull/49)
 
-![](icons/pull_request_merged.svg) [Add SECURITY](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/77)
+![](icons/pull_request_open.svg) [Start testing against a sample](https://github.com/thoughtbot/stylelint-config/pull/51)
 
-![](icons/pull_request_merged.svg) [Add LICENSE](https://github.com/nickcharlton/administrate-field-nested_has_many/pull/75)
+![](icons/pull_request_open.svg) [Refresh Scss sample](https://github.com/thoughtbot/guides/pull/694)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
