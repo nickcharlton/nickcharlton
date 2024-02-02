@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_merged.svg) [Refresh Scss sample](https://github.com/thoughtbot/guides/pull/694)
+![](icons/pull_request_open.svg) [Switch to using @thoughtbot/stylelint-config](https://github.com/thoughtbot/administrate/pull/2492)
 
-![](icons/pull_request_open.svg) [Add "A Software Development Bibliography"](https://github.com/nickcharlton/site/pull/111)
+![](icons/pull_request_merged.svg) [Upgrade Stylelint to v16.2.0](https://github.com/thoughtbot/stylelint-config/pull/54)
 
-![](icons/pull_request_open.svg) [Start testing against a sample](https://github.com/thoughtbot/stylelint-config/pull/51)
+![](icons/pull_request_merged.svg) [Lint JavaScript with eslint/prettier](https://github.com/thoughtbot/stylelint-config/pull/53)
 
-![](icons/pull_request_open.svg) [Remove deprecated rules, but test for future ones](https://github.com/thoughtbot/stylelint-config/pull/52)
+![](icons/pull_request_merged.svg) [Remove deprecated rules, but test for future ones](https://github.com/thoughtbot/stylelint-config/pull/52)
 
-![](icons/issue_open.svg) [Incompatibility with `importmap-rails`](https://github.com/thoughtbot/administrate/issues/2501)
+![](icons/pull_request_merged.svg) [Start testing against a sample](https://github.com/thoughtbot/stylelint-config/pull/51)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
