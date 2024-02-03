@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Switch to using @thoughtbot/stylelint-config](https://github.com/thoughtbot/administrate/pull/2492)
+![](icons/pull_request_draft.svg) [Lint Ruby with standardrb](https://github.com/thoughtbot/administrate/pull/2508)
 
-![](icons/pull_request_merged.svg) [Upgrade Stylelint to v16.2.0](https://github.com/thoughtbot/stylelint-config/pull/54)
+![](icons/pull_request_merged.svg) [Add .node-version to test against Node v20.11.0](https://github.com/thoughtbot/administrate/pull/2507)
 
-![](icons/pull_request_merged.svg) [Lint JavaScript with eslint/prettier](https://github.com/thoughtbot/stylelint-config/pull/53)
+![](icons/pull_request_open.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
 
-![](icons/pull_request_merged.svg) [Remove deprecated rules, but test for future ones](https://github.com/thoughtbot/stylelint-config/pull/52)
+![](icons/pull_request_open.svg) [Stop saying Administrate doesn't have a DSL](https://github.com/thoughtbot/administrate/pull/2505)
 
-![](icons/pull_request_merged.svg) [Start testing against a sample](https://github.com/thoughtbot/stylelint-config/pull/51)
+![](icons/issue_closed.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
