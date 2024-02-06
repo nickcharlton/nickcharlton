@@ -12,7 +12,7 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_draft.svg) [Lint Ruby with standardrb](https://github.com/thoughtbot/administrate/pull/2508)
+![](icons/pull_request_merged.svg) [Lint Ruby with standardrb](https://github.com/thoughtbot/administrate/pull/2508)
 
 ![](icons/pull_request_merged.svg) [Add .node-version to test against Node v20.11.0](https://github.com/thoughtbot/administrate/pull/2507)
 
