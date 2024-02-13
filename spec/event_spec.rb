@@ -7,7 +7,7 @@ RSpec.describe Event do
       it "is a markdown formatted line to the event" do
         event = new_event(type: "IssueCommentEvent")
 
-        expect(event.to_event_line).to eq("Commented on")
+        expect(event.to_event_line).to eq("Commented on _[Event](http://example.com)_")
       end
     end
 
@@ -15,6 +15,7 @@ RSpec.describe Event do
       described_class.new(
         id: nil,
         type: type,
+        action: "created",
         topic: "nickcharlton/nickcharlton",
         title: "Event",
         url: "http://example.com",
