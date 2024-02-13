@@ -52,6 +52,15 @@ RSpec.describe GithubEvents do
         )
       end
     end
+
+    context "with a deleted event" do
+      it "skips the event" do
+        Excon.stub({}, {status: 200, body: fixture(name: "github_events_deleted")})
+        gc = described_class.new(username: "nickcharlton")
+
+        expect(gc.recent).to be_empty
+      end
+    end
   end
 
   def fixture(name:)

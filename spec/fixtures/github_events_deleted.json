@@ -1,0 +1,33 @@
+[
+  {
+    "id": "35631341987",
+    "type": "DeleteEvent",
+    "actor": {
+      "id": 11917,
+      "login": "nickcharlton",
+      "display_login": "nickcharlton",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nickcharlton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11917?"
+    },
+    "repo": {
+      "id": 33739333,
+      "name": "thoughtbot/administrate",
+      "url": "https://api.github.com/repos/thoughtbot/administrate"
+    },
+    "payload": {
+      "ref": "dependabot/bundler/dotenv-rails-3.0.0",
+      "ref_type": "branch",
+      "pusher_type": "user"
+    },
+    "public": true,
+    "created_at": "2024-02-13T10:30:22Z",
+    "org": {
+      "id": 6183,
+      "login": "thoughtbot",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/thoughtbot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6183?"
+    }
+  }
+]

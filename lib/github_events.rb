@@ -34,6 +34,8 @@ class GithubEvents
 
         title = pr[:title]
         url = pr[:html_url]
+      else
+        next
       end
 
       Event.new(
@@ -45,7 +47,7 @@ class GithubEvents
         url: url,
         created_at: event_created_at
       )
-    end
+    end.compact
   end
 
   private
