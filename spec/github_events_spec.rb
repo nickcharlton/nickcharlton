@@ -9,7 +9,7 @@ RSpec.describe GithubEvents do
 
       recent = gc.recent
 
-      expect(recent.count).to be(30)
+      expect(recent.count).to be(16)
     end
 
     context "with closed issue" do
