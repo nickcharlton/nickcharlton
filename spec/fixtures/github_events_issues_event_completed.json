@@ -1,0 +1,91 @@
+[
+  {
+    "id": "35483202359",
+    "type": "IssuesEvent",
+    "actor": {
+      "id": 11917,
+      "login": "nickcharlton",
+      "display_login": "nickcharlton",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/nickcharlton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11917?"
+    },
+    "repo": {
+      "id": 1072713,
+      "name": "thoughtbot/appraisal",
+      "url": "https://api.github.com/repos/thoughtbot/appraisal"
+    },
+    "payload": {
+      "action": "closed",
+      "issue": {
+        "url": "https://api.github.com/repos/thoughtbot/appraisal/issues/213",
+        "repository_url": "https://api.github.com/repos/thoughtbot/appraisal",
+        "labels_url": "https://api.github.com/repos/thoughtbot/appraisal/issues/213/labels{/name}",
+        "comments_url": "https://api.github.com/repos/thoughtbot/appraisal/issues/213/comments",
+        "events_url": "https://api.github.com/repos/thoughtbot/appraisal/issues/213/events",
+        "html_url": "https://github.com/thoughtbot/appraisal/issues/213",
+        "id": 1845168751,
+        "node_id": "I_kwDOABBeSc5t-wpv",
+        "number": 213,
+        "title": "`customize_gemfiles` not working correctly with Ruby 3.1 due to hash used for keyword arguments",
+        "user": {
+          "login": "gstokkink",
+          "id": 14915325,
+          "node_id": "MDQ6VXNlcjE0OTE1MzI1",
+          "avatar_url": "https://avatars.githubusercontent.com/u/14915325?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/gstokkink",
+          "html_url": "https://github.com/gstokkink",
+          "followers_url": "https://api.github.com/users/gstokkink/followers",
+          "following_url": "https://api.github.com/users/gstokkink/following{/other_user}",
+          "gists_url": "https://api.github.com/users/gstokkink/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/gstokkink/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/gstokkink/subscriptions",
+          "organizations_url": "https://api.github.com/users/gstokkink/orgs",
+          "repos_url": "https://api.github.com/users/gstokkink/repos",
+          "events_url": "https://api.github.com/users/gstokkink/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/gstokkink/received_events",
+          "type": "User",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "closed",
+        "locked": false,
+        "assignee": null,
+        "assignees": [],
+        "milestone": null,
+        "comments": 1,
+        "created_at": "2023-08-10T13:14:33Z",
+        "updated_at": "2024-02-07T14:30:08Z",
+        "closed_at": "2024-02-07T14:30:08Z",
+        "author_association": "NONE",
+        "active_lock_reason": null,
+        "body": "Hi!\r\n\r\nWhen trying to use the new `customize_gemfiles` functionality, I run into the following error when using Ruby 3.1:\r\n\r\n```\r\nbundle exec appraisal install                                                                                                                                                                                               15:05:24\r\nbundler: failed to load command: appraisal (/Users/work/.rbenv/versions/3.1.4/bin/appraisal)\r\n/Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/customize.rb:3:in `initialize': wrong number of arguments (given 1, expected 0) (ArgumentError)\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:38:in `new'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:38:in `customize_gemfiles'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:46:in `run'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:44:in `instance_eval'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:44:in `run'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:21:in `initialize'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:12:in `new'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/appraisal_file.rb:12:in `each'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/task.rb:32:in `block in initialize'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/rake-13.0.6/lib/rake/task_manager.rb:232:in `in_namespace'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/rake-13.0.6/lib/rake/dsl_definition.rb:141:in `namespace'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal/task.rb:9:in `initialize'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal.rb:4:in `new'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/lib/appraisal.rb:4:in `<top (required)>'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/bin/appraisal:4:in `require'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/appraisal-2.5.0/bin/appraisal:4:in `<top (required)>'\r\n        from /Users/work/.rbenv/versions/3.1.4/bin/appraisal:25:in `load'\r\n        from /Users/work/.rbenv/versions/3.1.4/bin/appraisal:25:in `<top (required)>'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/cli/exec.rb:58:in `load'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/cli/exec.rb:58:in `kernel_load'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/cli/exec.rb:23:in `run'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/cli.rb:492:in `exec'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/vendor/thor/lib/thor.rb:392:in `dispatch'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/cli.rb:34:in `dispatch'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/vendor/thor/lib/thor/base.rb:485:in `start'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/cli.rb:28:in `start'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/exe/bundle:45:in `block in <top (required)>'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/lib/bundler/friendly_errors.rb:117:in `with_friendly_errors'\r\n        from /Users/work/.rbenv/versions/3.1.4/lib/ruby/gems/3.1.0/gems/bundler-2.4.13/exe/bundle:33:in `<top (required)>'\r\n        from /Users/work/.rbenv/versions/3.1.4/bin/bundle:25:in `load'\r\n        from /Users/work/.rbenv/versions/3.1.4/bin/bundle:25:in `<main>'\r\n```\r\n\r\nThis is caused by Ruby 3.1 deprecating the hash => keyword arguments compatibility stuff. The solution is simple, simply replace `yield` by `**yield` here:\r\n\r\nhttps://github.com/thoughtbot/appraisal/blob/main/lib/appraisal/appraisal_file.rb#L38\r\n\r\nSo the end result should be:\r\n\r\n```\r\n    def customize_gemfiles(&_block)\r\n      Customize.new(**yield)\r\n    end\r\n```\r\n\r\nI think this should work for all supported Ruby versions.",
+        "reactions": {
+          "url": "https://api.github.com/repos/thoughtbot/appraisal/issues/213/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/thoughtbot/appraisal/issues/213/timeline",
+        "performed_via_github_app": null,
+        "state_reason": "completed"
+      }
+    },
+    "public": true,
+    "created_at": "2024-02-07T14:30:09Z",
+    "org": {
+      "id": 6183,
+      "login": "thoughtbot",
+      "gravatar_id": "",
+      "url": "https://api.github.com/orgs/thoughtbot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6183?"
+    }
+  }
+]

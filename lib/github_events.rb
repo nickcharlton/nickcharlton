@@ -19,6 +19,17 @@ class GithubEvents
       repo_name = item[:repo][:name]
 
       case event_type
+      when "IssuesEvent"
+        issue = item[:payload][:issue]
+
+        title = issue[:title]
+        url = issue[:html_url]
+
+        if event_action == "closed"
+          if issue[:state_reason] == "completed"
+            event_action = "completed"
+          end
+        end
       when "IssueCommentEvent"
         issue = item[:payload][:issue]
         comment = item[:payload][:comment]

@@ -12,6 +12,22 @@ RSpec.describe GithubEvents do
       expect(recent.count).to be(30)
     end
 
+    context "with closed issue" do
+      it "builds an Event" do
+        Excon.stub({}, {status: 200, body: fixture(name: "github_events_issues_event_completed")})
+        gc = described_class.new(username: "nickcharlton")
+
+        recent = gc.recent
+
+        expect(recent.first).to have_attributes(
+          type: "IssuesEvent",
+          action: "completed",
+          topic: "thoughtbot/appraisal",
+          title: "`customize_gemfiles` not working correctly with Ruby 3.1 due to hash used for keyword arguments",
+          url: "https://github.com/thoughtbot/appraisal/issues/213"
+        )
+      end
+    end
     context "with an new issue comment" do
       it "builds an Event" do
         Excon.stub({}, {status: 200, body: fixture(name: "github_events_issue_comment")})
