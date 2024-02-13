@@ -35,6 +35,23 @@ RSpec.describe GithubEvents do
     context "with an edited issue comment" do
       it "skips the event"
     end
+
+    context "with merged pull request" do
+      it "builds an Event" do
+        Excon.stub({}, {status: 200, body: fixture(name: "github_events_merged_pull_request")})
+        gc = described_class.new(username: "nickcharlton")
+
+        recent = gc.recent
+
+        expect(recent.first).to have_attributes(
+          type: "PullRequestEvent",
+          action: "merged",
+          topic: "thoughtbot/administrate",
+          title: "Bump dotenv-rails from 2.8.1 to 3.0.0",
+          url: "https://github.com/thoughtbot/administrate/pull/2513"
+        )
+      end
+    end
   end
 
   def fixture(name:)

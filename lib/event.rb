@@ -1,9 +1,10 @@
 class Event
-  attr_accessor :id, :type, :topic, :title, :url, :created_at
+  attr_accessor :id, :type, :action, :topic, :title, :url, :created_at
 
-  def initialize(id:, type:, topic:, title:, url:, created_at:)
+  def initialize(id:, type:, action:, topic:, title:, url:, created_at:)
     @id = id
     @type = type
+    @action = action
     @topic = topic
     @title = title
     @url = url

@@ -33,6 +33,26 @@ class GithubEvents
           url: url,
           created_at: event_created_at
         )
+      when "PullRequestEvent"
+        action = item[:payload][:action]
+        pr = item[:payload][:pull_request]
+
+        if action == "closed"
+          action = pr[:merged_at] ? "merged" : action
+        end
+
+        title = pr[:title]
+        url = pr[:html_url]
+
+        Event.new(
+          id: event_id,
+          type: event_type,
+          action: action,
+          topic: repo_name,
+          title: title,
+          url: url,
+          created_at: event_created_at
+        )
       end
     end
   end
