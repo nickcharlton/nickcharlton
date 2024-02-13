@@ -14,6 +14,7 @@ class GithubEvents
     data.map do |item|
       event_id = item[:id]
       event_type = item[:type]
+      event_action = item[:payload][:action]
       event_created_at = item[:created_at]
       repo_name = item[:repo][:name]
 
@@ -24,36 +25,26 @@ class GithubEvents
 
         title = issue[:title]
         url = comment[:html_url]
-
-        Event.new(
-          id: event_id,
-          type: event_type,
-          topic: repo_name,
-          title: title,
-          url: url,
-          created_at: event_created_at
-        )
       when "PullRequestEvent"
-        action = item[:payload][:action]
         pr = item[:payload][:pull_request]
 
-        if action == "closed"
-          action = pr[:merged_at] ? "merged" : action
+        if event_action == "closed"
+          event_action = pr[:merged_at] ? "merged" : event_action
         end
 
         title = pr[:title]
         url = pr[:html_url]
-
-        Event.new(
-          id: event_id,
-          type: event_type,
-          action: action,
-          topic: repo_name,
-          title: title,
-          url: url,
-          created_at: event_created_at
-        )
       end
+
+      Event.new(
+        id: event_id,
+        type: event_type,
+        action: event_action,
+        topic: repo_name,
+        title: title,
+        url: url,
+        created_at: event_created_at
+      )
     end
   end
 
