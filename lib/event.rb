@@ -12,14 +12,16 @@ class Event
   end
 
   def to_event_line
-    "#{event_description}"
+    "#{event_description} _[#{title}](#{url})_"
   end
 
   private
 
   def event_description
     {
-      "IssueCommentEvent" => "Commented on"
+      "IssuesEvent" => action.capitalize,
+      "IssueCommentEvent" => "Commented on",
+      "PullRequestEvent" => action.capitalize
     }.fetch(type)
   end
 end

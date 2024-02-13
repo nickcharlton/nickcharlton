@@ -1,0 +1,27 @@
+#!/usr/bin/env ruby
+
+require "bundler"
+
+Bundler.require
+
+$:.push File.expand_path("../lib", __dir__)
+
+require "pry"
+require "github_events"
+
+start_time = DateTime.new(2024, 2, 12)
+end_time = DateTime.new(2024, 2, 18)
+date_range = start_time..end_time
+
+gh = GithubEvents.new(username: "nickcharlton").recent
+
+in_range = gh.select do |event|
+  date_range === DateTime.parse(event.created_at)
+end
+
+in_range.group_by { |e| e.topic }.each do |topic, events|
+  puts "### #{topic}"
+  puts
+  events.each { |event| puts event.to_event_line }
+  puts
+end

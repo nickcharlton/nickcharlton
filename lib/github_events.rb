@@ -31,6 +31,8 @@ class GithubEvents
           end
         end
       when "IssueCommentEvent"
+        next unless event_action == "created"
+
         issue = item[:payload][:issue]
         comment = item[:payload][:comment]
 
