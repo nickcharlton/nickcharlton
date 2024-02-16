@@ -14,13 +14,13 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 <!-- contributions starts -->
 ![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
 
+![](icons/pull_request_open.svg) [Avoid using the `--without` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/221)
+
+![](icons/pull_request_open.svg) [Avoid using the `--path` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/220)
+
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/pull_request_open.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
-
-![](icons/pull_request_open.svg) [Stop saying Administrate doesn't have a DSL](https://github.com/thoughtbot/administrate/pull/2505)
-
-![](icons/pull_request_merged.svg) [Lint Ruby with standardrb](https://github.com/thoughtbot/administrate/pull/2508)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
