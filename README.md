@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Start running Appraisals in the build matrix](https://github.com/thoughtbot/administrate/pull/2524)
+
+![](icons/issue_open.svg) [Upgrade to v1 breaks with applications using Bootstrap 4.6](https://github.com/thoughtbot/administrate/issues/2522)
+
+![](icons/issue_open.svg) [Flakey spec: Search admin search with a filter with arguments](https://github.com/thoughtbot/administrate/issues/2523)
+
 ![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
 
 ![](icons/pull_request_open.svg) [Avoid using the `--without` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/221)
-
-![](icons/pull_request_open.svg) [Avoid using the `--path` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/220)
-
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
-
-![](icons/pull_request_open.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
