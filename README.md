@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Start running Appraisals in the build matrix](https://github.com/thoughtbot/administrate/pull/2524)
+![](icons/pull_request_merged.svg) [Add post on diff-check](https://github.com/nickcharlton/site/pull/113)
 
-![](icons/issue_open.svg) [Upgrade to v1 breaks with applications using Bootstrap 4.6](https://github.com/thoughtbot/administrate/issues/2522)
+![](icons/pull_request_merged.svg) [Stop showing "Week Notes" on the homepage](https://github.com/nickcharlton/site/pull/112)
 
-![](icons/issue_open.svg) [Flakey spec: Search admin search with a filter with arguments](https://github.com/thoughtbot/administrate/issues/2523)
+![](icons/pull_request_merged.svg) [Add LICENCE](https://github.com/nickcharlton/diff-check/pull/3)
 
-![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
+![](icons/pull_request_merged.svg) [Add more details to the README](https://github.com/nickcharlton/diff-check/pull/2)
 
-![](icons/pull_request_open.svg) [Avoid using the `--without` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/221)
+![](icons/pull_request_merged.svg) [Add initial implementation](https://github.com/nickcharlton/diff-check/pull/1)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
@@ -28,6 +28,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Blog posts
 
 <!-- blog starts -->
+[diff-check: A GitHub Action which fails if anything changed](https://nickcharlton.net/posts/diff-check-github-action.html)
+
 [Fixing unsupported SFP+ modules/"no carrier" errors with Intel X520 cards on Debian & FreeBSD](https://nickcharlton.net/posts/unsupported-sfp-modules-intel-x520-debian-freebsd.html)
 
 [Always showing all GitHub Checks with a user style sheet](https://nickcharlton.net/posts/github-checks-stylesheet.html)
@@ -35,8 +37,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 [Resolving ESXi 7.0 NIC connection issues on Supermicro X10SDV-4C-TLN2F motherboards](https://nickcharlton.net/posts/resolving-esxi-7-nic-connection-issues-on-supermicro-x10sdv-4c-tln2f-motherboards.html)
 
 [Building a 1Password CLI Windows MSI Installer](https://nickcharlton.net/posts/building-a-1password-cli-windows-msi-installer.html)
-
-[Setting up an Azure Site-to-Site VPN to a Ubiquiti EdgeRouter through NAT](https://nickcharlton.net/posts/azure-site-to-site-vpn-ubiquiti-edgerouter-nat.html)
 
 <!-- blog ends -->
 </td></tr></table>
