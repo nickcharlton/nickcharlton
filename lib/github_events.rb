@@ -48,6 +48,7 @@ class GithubEvents
         title = pr[:title]
         url = pr[:html_url]
       else
+        puts "Skipping unhandled event_type: #{event_type}"
         next
       end
 
