@@ -19,7 +19,7 @@ class Event
 
   def event_description
     {
-      "IssuesEvent" => action.capitalize,
+      "IssuesEvent" => "#{action.capitalize} issue",
       "IssueCommentEvent" => "Commented on",
       "PullRequestEvent" => action.capitalize
     }.fetch(type)
