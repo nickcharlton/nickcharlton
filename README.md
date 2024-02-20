@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [Upgrade to v1 breaks with applications using Bootstrap 4.6](https://github.com/thoughtbot/administrate/issues/2522)
+
+![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
+
 ![](icons/pull_request_merged.svg) [Add post on diff-check](https://github.com/nickcharlton/site/pull/113)
 
 ![](icons/pull_request_merged.svg) [Stop showing "Week Notes" on the homepage](https://github.com/nickcharlton/site/pull/112)
 
 ![](icons/pull_request_merged.svg) [Add LICENCE](https://github.com/nickcharlton/diff-check/pull/3)
-
-![](icons/pull_request_merged.svg) [Add more details to the README](https://github.com/nickcharlton/diff-check/pull/2)
-
-![](icons/pull_request_merged.svg) [Add initial implementation](https://github.com/nickcharlton/diff-check/pull/1)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
