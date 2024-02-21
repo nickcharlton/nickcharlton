@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Upgrade to v1 breaks with applications using Bootstrap 4.6](https://github.com/thoughtbot/administrate/issues/2522)
-
 ![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
+
+![](icons/issue_closed.svg) [Upgrade to v1 breaks with applications using Bootstrap 4.6](https://github.com/thoughtbot/administrate/issues/2522)
 
 ![](icons/pull_request_merged.svg) [Add post on diff-check](https://github.com/nickcharlton/site/pull/113)
 
