@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Avoid using the `--without` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/221)
+![](icons/pull_request_merged.svg) [Avoid using the `--without` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/221)
 
-![](icons/pull_request_open.svg) [Avoid using the `--path` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/220)
+![](icons/pull_request_merged.svg) [Avoid using the `--path` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/220)
 
 ![](icons/pull_request_open.svg) [Update linting references](https://github.com/thoughtbot/administrate/pull/2530)
 
