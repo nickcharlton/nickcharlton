@@ -77,6 +77,23 @@ RSpec.describe GithubEvents do
         expect(gc.recent).to be_empty
       end
     end
+
+    context "with a pull request review event" do
+      it "builds an Event" do
+        Excon.stub({}, {status: 200, body: fixture(name: "github_events_pull_request_review")})
+        gc = described_class.new(username: "nickcharlton")
+
+        recent = gc.recent
+
+        expect(recent.first).to have_attributes(
+          type: "PullRequestReviewEvent",
+          action: "created",
+          topic: "thoughtbot/administrate",
+          title: "Explicit module nesting",
+          url: "https://github.com/thoughtbot/administrate/pull/2532"
+        )
+      end
+    end
   end
 
   def fixture(name:)

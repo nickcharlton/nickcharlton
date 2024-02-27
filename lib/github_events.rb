@@ -47,6 +47,11 @@ class GithubEvents
 
         title = pr[:title]
         url = pr[:html_url]
+      when "PullRequestReviewEvent"
+        pr = item[:payload][:pull_request]
+
+        title = pr[:title]
+        url = pr[:html_url]
       else
         puts "Skipping unhandled event_type: #{event_type}"
         next
