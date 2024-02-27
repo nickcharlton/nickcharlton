@@ -21,7 +21,8 @@ class Event
     {
       "IssuesEvent" => "#{action.capitalize} issue",
       "IssueCommentEvent" => "Commented on",
-      "PullRequestEvent" => action.capitalize
+      "PullRequestEvent" => action.capitalize,
+      "PullRequestReviewEvent" => "Reviewed"
     }.fetch(type)
   end
 end
