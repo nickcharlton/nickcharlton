@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Update Rails to 7.0.8.1](https://github.com/thoughtbot/administrate/pull/2536)
+
 ![](icons/pull_request_merged.svg) [Avoid using the `--without` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/221)
 
 ![](icons/pull_request_merged.svg) [Avoid using the `--path` parameter to Bundler](https://github.com/thoughtbot/appraisal/pull/220)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_open.svg) [Update linting references](https://github.com/thoughtbot/administrate/pull/2530)
 
 ![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
-
-![](icons/issue_closed.svg) [Upgrade to v1 breaks with applications using Bootstrap 4.6](https://github.com/thoughtbot/administrate/issues/2522)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
