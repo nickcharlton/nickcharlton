@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_closed.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
-
 ![](icons/issue_open.svg) [Incompatibility with `importmap-rails`](https://github.com/thoughtbot/administrate/issues/2501)
+
+![](icons/issue_closed.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
 ![](icons/pull_request_draft.svg) [Fix "search with a filter with arguments" spec](https://github.com/thoughtbot/administrate/pull/2539)
 
