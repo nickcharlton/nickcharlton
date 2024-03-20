@@ -12,7 +12,7 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Incompatibility with `importmap-rails`](https://github.com/thoughtbot/administrate/issues/2501)
+![](icons/issue_closed.svg) [Incompatibility with `importmap-rails`](https://github.com/thoughtbot/administrate/issues/2501)
 
 ![](icons/issue_closed.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
 
