@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_draft.svg) [Fix "search with a filter with arguments" spec](https://github.com/thoughtbot/administrate/pull/2539)
+
+![](icons/pull_request_open.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
+
 ![](icons/issue_open.svg) [Flakey spec: Search admin search with a filter with arguments](https://github.com/thoughtbot/administrate/issues/2523)
 
 ![](icons/issue_closed.svg) [Incompatibility with `importmap-rails`](https://github.com/thoughtbot/administrate/issues/2501)
 
 ![](icons/issue_closed.svg) [Asset Management](https://github.com/thoughtbot/administrate/issues/2311)
-
-![](icons/pull_request_draft.svg) [Fix "search with a filter with arguments" spec](https://github.com/thoughtbot/administrate/pull/2539)
-
-![](icons/pull_request_merged.svg) [Update Rails to 7.0.8.1](https://github.com/thoughtbot/administrate/pull/2536)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
