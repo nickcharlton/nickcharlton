@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Flakey spec: Search admin search with a filter with arguments](https://github.com/thoughtbot/administrate/issues/2523)
-
 ![](icons/pull_request_draft.svg) [Fix "search with a filter with arguments" spec](https://github.com/thoughtbot/administrate/pull/2539)
+
+![](icons/issue_closed.svg) [Flakey spec: Search admin search with a filter with arguments](https://github.com/thoughtbot/administrate/issues/2523)
 
 ![](icons/pull_request_open.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
 
