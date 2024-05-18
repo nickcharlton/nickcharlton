@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
+
+![](icons/pull_request_open.svg) [Add pathname which is implicitly referenced](https://github.com/thoughtbot/suspenders/pull/1134)
+
+![](icons/issue_open.svg) [Replace mission-control@ email address with social@](https://github.com/thoughtbot/thoughtbot.social/issues/8)
+
 ![](icons/issue_closed.svg) [Suspenders fails to generate because Redis 4 is wanted, but only 5 is available](https://github.com/thoughtbot/suspenders/issues/1133)
 
 ![](icons/pull_request_draft.svg) [Fix "search with a filter with arguments" spec](https://github.com/thoughtbot/administrate/pull/2539)
-
-![](icons/issue_closed.svg) [Flakey spec: Search admin search with a filter with arguments](https://github.com/thoughtbot/administrate/issues/2523)
-
-![](icons/pull_request_open.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
-
-![](icons/issue_closed.svg) [Incompatibility with `importmap-rails`](https://github.com/thoughtbot/administrate/issues/2501)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
