@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
+![](icons/pull_request_closed.svg) [Add pathname which is implicitly referenced](https://github.com/thoughtbot/suspenders/pull/1134)
 
-![](icons/pull_request_open.svg) [Add pathname which is implicitly referenced](https://github.com/thoughtbot/suspenders/pull/1134)
+![](icons/issue_open.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
 
 ![](icons/issue_open.svg) [Replace mission-control@ email address with social@](https://github.com/thoughtbot/thoughtbot.social/issues/8)
 
