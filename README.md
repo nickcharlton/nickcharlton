@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Update Rails from 7.0.8.1 to 7.0.8.1](https://github.com/thoughtbot/administrate/pull/2607)
+
 ![](icons/pull_request_closed.svg) [Add pathname which is implicitly referenced](https://github.com/thoughtbot/suspenders/pull/1134)
 
 ![](icons/issue_open.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/issue_open.svg) [Replace mission-control@ email address with social@](https://github.com/thoughtbot/thoughtbot.social/issues/8)
 
 ![](icons/issue_closed.svg) [Suspenders fails to generate because Redis 4 is wanted, but only 5 is available](https://github.com/thoughtbot/suspenders/issues/1133)
-
-![](icons/pull_request_draft.svg) [Fix "search with a filter with arguments" spec](https://github.com/thoughtbot/administrate/pull/2539)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
