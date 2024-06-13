@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Add backticks to format file names as code](https://github.com/nickcharlton/diff-check/pull/7)
+
+![](icons/pull_request_open.svg) [tee output to console](https://github.com/nickcharlton/diff-check/pull/6)
+
+![](icons/pull_request_open.svg) [Fix path to diff-check in action.yml](https://github.com/nickcharlton/diff-check/pull/5)
+
 ![](icons/pull_request_open.svg) [Add diff-check to catch missing Appraisal runs](https://github.com/thoughtbot/administrate/pull/2609)
 
 ![](icons/pull_request_merged.svg) [Add post on Opnsense w/KVM](https://github.com/nickcharlton/site/pull/115)
-
-![](icons/pull_request_merged.svg) [Update Rails from 7.0.8.1 to 7.0.8.1](https://github.com/thoughtbot/administrate/pull/2607)
-
-![](icons/pull_request_closed.svg) [Add pathname which is implicitly referenced](https://github.com/thoughtbot/suspenders/pull/1134)
-
-![](icons/issue_open.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
