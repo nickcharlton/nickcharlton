@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Start running Appraisals in the build matrix](https://github.com/thoughtbot/administrate/pull/2524)
+
+![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
+
+![](icons/pull_request_open.svg) [Update linting references](https://github.com/thoughtbot/administrate/pull/2530)
+
 ![](icons/pull_request_open.svg) [Add diff-check to catch missing Appraisal runs](https://github.com/thoughtbot/administrate/pull/2609)
 
 ![](icons/pull_request_open.svg) [tee output to console](https://github.com/nickcharlton/diff-check/pull/6)
-
-![](icons/pull_request_merged.svg) [Fix path to diff-check in action.yml](https://github.com/nickcharlton/diff-check/pull/5)
-
-![](icons/pull_request_open.svg) [Add backticks to format file names as code](https://github.com/nickcharlton/diff-check/pull/7)
-
-![](icons/pull_request_merged.svg) [Add post on Opnsense w/KVM](https://github.com/nickcharlton/site/pull/115)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
