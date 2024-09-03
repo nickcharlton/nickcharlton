@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Add diff-check to catch missing Appraisal runs](https://github.com/thoughtbot/administrate/pull/2609)
+![](icons/pull_request_merged.svg) [Add diff-check to catch missing Appraisal runs](https://github.com/thoughtbot/administrate/pull/2609)
+
+![](icons/pull_request_merged.svg) [Switch from diff-index to diff](https://github.com/nickcharlton/diff-check/pull/9)
 
 ![](icons/pull_request_merged.svg) [Update cssbundling/jsbundling in Appraisals](https://github.com/thoughtbot/administrate/pull/2654)
 
 ![](icons/pull_request_merged.svg) [Update screenshot to show code tags around files](https://github.com/nickcharlton/diff-check/pull/8)
 
 ![](icons/pull_request_merged.svg) [Add backticks to format file names as code](https://github.com/nickcharlton/diff-check/pull/7)
-
-![](icons/pull_request_merged.svg) [tee output to console](https://github.com/nickcharlton/diff-check/pull/6)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
