@@ -12,7 +12,7 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
+![](icons/issue_closed.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
 
 ![](icons/pull_request_merged.svg) [Add post on diff-check in GitHub Marketplace](https://github.com/nickcharlton/site/pull/120)
 
