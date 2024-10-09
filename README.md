@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Run diff-check on JS/CSS to catch updates](https://github.com/thoughtbot/administrate/pull/2680)
+
 ![](icons/issue_closed.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
 
 ![](icons/pull_request_merged.svg) [Add post on diff-check in GitHub Marketplace](https://github.com/nickcharlton/site/pull/120)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/pull_request_merged.svg) [Add post on Rails "template" approach](https://github.com/nickcharlton/site/pull/119)
-
-![](icons/pull_request_merged.svg) [Add diff-check to catch missing Appraisal runs](https://github.com/thoughtbot/administrate/pull/2609)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
