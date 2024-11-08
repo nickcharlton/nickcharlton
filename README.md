@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
-
 ![](icons/pull_request_open.svg) [Run diff-check on JS/CSS to catch updates](https://github.com/thoughtbot/administrate/pull/2680)
+
+![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/issue_closed.svg) [What is our offboarding policy?](https://github.com/thoughtbot/thoughtbot.social/issues/7)
 
