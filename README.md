@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_draft.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/administrate/pull/2705)
+![](icons/pull_request_open.svg) [Stop saying Administrate doesn't have a DSL](https://github.com/thoughtbot/administrate/pull/2505)
 
-![](icons/pull_request_merged.svg) [Start running Appraisals in the build matrix](https://github.com/thoughtbot/administrate/pull/2524)
+![](icons/pull_request_open.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
 
-![](icons/issue_closed.svg) [Authentication errors are missing from the UI](https://github.com/outline/outline/issues/7933)
-
-![](icons/issue_open.svg) [Documentation is missing some Microsoft Entra/Microsoft Graph required permissions](https://github.com/outline/outline/issues/7932)
+![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
 
 ![](icons/pull_request_open.svg) [Run diff-check on JS/CSS to catch updates](https://github.com/thoughtbot/administrate/pull/2680)
+
+![](icons/pull_request_draft.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/administrate/pull/2705)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
