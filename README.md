@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Add link to Administrate v1 post on Giant Robots](https://github.com/nickcharlton/site/pull/123)
+
 ![](icons/issue_closed.svg) [Documentation is missing some Microsoft Entra/Microsoft Graph required permissions](https://github.com/outline/outline/issues/7932)
 
 ![](icons/pull_request_merged.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/administrate/pull/2705)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Separate Appraisal runs from primary test runs](https://github.com/thoughtbot/administrate/pull/2712)
 
 ![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
-
-![](icons/pull_request_open.svg) [Add link to Administrate v1 post on Giant Robots](https://github.com/nickcharlton/site/pull/123)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
