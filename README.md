@@ -12,9 +12,9 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Pre-release app is broken with out of date database and can't be deployed](https://github.com/thoughtbot/administrate/issues/2715)
-
 ![](icons/pull_request_open.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/suspenders/pull/1239)
+
+![](icons/issue_open.svg) [Pre-release app is broken with out of date database and can't be deployed](https://github.com/thoughtbot/administrate/issues/2715)
 
 ![](icons/pull_request_merged.svg) [Add link to Administrate v1 post on Giant Robots](https://github.com/nickcharlton/site/pull/123)
 
