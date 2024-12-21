@@ -12,6 +12,8 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [We don't just prefer, but require the use of Postgres](https://github.com/thoughtbot/suspenders/issues/1245)
+
 ![](icons/pull_request_merged.svg) [Fix BUNDLE_GEMFILE path for demo deployments](https://github.com/thoughtbot/administrate/pull/2728)
 
 ![](icons/issue_closed.svg) [Pre-release app is broken with out of date database and can't be deployed](https://github.com/thoughtbot/administrate/issues/2715)
@@ -19,8 +21,6 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ![](icons/pull_request_merged.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/administrate/pull/2705)
 
 ![](icons/pull_request_open.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/suspenders/pull/1239)
-
-![](icons/pull_request_merged.svg) [Add link to Administrate v1 post on Giant Robots](https://github.com/nickcharlton/site/pull/123)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
