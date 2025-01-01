@@ -12,13 +12,13 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Add a description for the organisation README](https://github.com/thoughtbot/.github/pull/1)
-
-![](icons/issue_open.svg) [Prerelease app is broken because of a Rack/Unicorn incompatibility](https://github.com/thoughtbot/administrate/issues/2730)
+![](icons/pull_request_merged.svg) [Upgrade base Ruby to 3.4.1 and add to test matrix](https://github.com/thoughtbot/administrate/pull/2734)
 
 ![](icons/pull_request_open.svg) [Add recent podcast episodes](https://github.com/thoughtbot/.github/pull/3)
 
 ![](icons/pull_request_open.svg) [Add recent blog posts to the organisation README](https://github.com/thoughtbot/.github/pull/2)
+
+![](icons/pull_request_merged.svg) [Add a description for the organisation README](https://github.com/thoughtbot/.github/pull/1)
 
 ![](icons/issue_open.svg) [We don't just prefer, but require the use of Postgres](https://github.com/thoughtbot/suspenders/issues/1245)
 
