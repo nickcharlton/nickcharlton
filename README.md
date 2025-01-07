@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_merged.svg) [Add post on installing Debian onto a Wyse 3040](https://github.com/nickcharlton/site/pull/126)
+![](icons/issue_closed.svg) [Prerelease app is broken because of a Rack/Unicorn incompatibility](https://github.com/thoughtbot/administrate/issues/2730)
 
-![](icons/pull_request_open.svg) [Update linting references](https://github.com/thoughtbot/administrate/pull/2530)
+![](icons/pull_request_merged.svg) [Switch to Puma for Rack compatibility](https://github.com/thoughtbot/administrate/pull/2744)
 
-![](icons/pull_request_open.svg) [Pin psych below 4 for Rails 6.0 support](https://github.com/thoughtbot/administrate/pull/2740)
+![](icons/pull_request_merged.svg) [Update linting references](https://github.com/thoughtbot/administrate/pull/2530)
 
-![](icons/issue_open.svg) [We don't just prefer, but require the use of Postgres](https://github.com/thoughtbot/suspenders/issues/1245)
+![](icons/pull_request_merged.svg) [Pin psych below 4 for Rails 6.0 support](https://github.com/thoughtbot/administrate/pull/2740)
 
-![](icons/pull_request_open.svg) [Stop saying Administrate doesn't have a DSL](https://github.com/thoughtbot/administrate/pull/2505)
+![](icons/pull_request_merged.svg) [Add drb, mutex_m to the Rails 6.0 Appraisal](https://github.com/thoughtbot/administrate/pull/2739)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
