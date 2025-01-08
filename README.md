@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [Deprecation warning: `to_time` will always preserve the receive timezone rather than system local time in Rails 8.1](https://github.com/thoughtbot/administrate/issues/2747)
+
+![](icons/pull_request_open.svg) [Tidy up and add yarn to bin/setup](https://github.com/thoughtbot/administrate/pull/2748)
+
+![](icons/pull_request_open.svg) [Remove package-lock.json in favour of yarn.lock](https://github.com/thoughtbot/administrate/pull/2746)
+
 ![](icons/issue_closed.svg) [Prerelease app is broken because of a Rack/Unicorn incompatibility](https://github.com/thoughtbot/administrate/issues/2730)
 
 ![](icons/pull_request_merged.svg) [Switch to Puma for Rack compatibility](https://github.com/thoughtbot/administrate/pull/2744)
-
-![](icons/pull_request_merged.svg) [Update linting references](https://github.com/thoughtbot/administrate/pull/2530)
-
-![](icons/pull_request_merged.svg) [Pin psych below 4 for Rails 6.0 support](https://github.com/thoughtbot/administrate/pull/2740)
-
-![](icons/pull_request_merged.svg) [Add drb, mutex_m to the Rails 6.0 Appraisal](https://github.com/thoughtbot/administrate/pull/2739)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
