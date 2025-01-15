@@ -12,15 +12,15 @@ I'm often a bit slow at responding, so give me time, I do get to it eventually.
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Stop saying Administrate doesn't have a DSL](https://github.com/thoughtbot/administrate/pull/2505)
+![](icons/pull_request_merged.svg) [Rephrase the Administrate pitch](https://github.com/thoughtbot/administrate/pull/2756)
+
+![](icons/pull_request_merged.svg) [Stop saying Administrate doesn't have a DSL](https://github.com/thoughtbot/administrate/pull/2505)
 
 ![](icons/pull_request_merged.svg) [Re-introduce bundle install to bin/setup](https://github.com/thoughtbot/administrate/pull/2754)
 
 ![](icons/pull_request_merged.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
 
 ![](icons/pull_request_merged.svg) [Add post on too many projects solution](https://github.com/nickcharlton/site/pull/128)
-
-![](icons/pull_request_merged.svg) [Tidy up and add yarn to bin/setup](https://github.com/thoughtbot/administrate/pull/2748)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
