@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Upgrade Ruby to 3.4.1](https://github.com/nickcharlton/nickcharlton/pull/6)
+
+![](icons/pull_request_merged.svg) [Remove comment about being slow](https://github.com/nickcharlton/nickcharlton/pull/5)
+
+![](icons/issue_closed.svg) [Deprecation warning: `to_time` will always preserve the receive timezone rather than system local time in Rails 8.1](https://github.com/thoughtbot/administrate/issues/2747)
+
+![](icons/pull_request_merged.svg) [Fix missing logger require for Rails 6.x](https://github.com/thoughtbot/administrate/pull/2765)
+
 ![](icons/pull_request_open.svg) [Update Bundler to v2.6.3](https://github.com/thoughtbot/administrate/pull/2760)
-
-![](icons/pull_request_merged.svg) [Rephrase the Administrate pitch](https://github.com/thoughtbot/administrate/pull/2756)
-
-![](icons/pull_request_merged.svg) [Stop saying Administrate doesn't have a DSL](https://github.com/thoughtbot/administrate/pull/2505)
-
-![](icons/pull_request_merged.svg) [Re-introduce bundle install to bin/setup](https://github.com/thoughtbot/administrate/pull/2754)
-
-![](icons/pull_request_merged.svg) [Remove pre-1.0 statement](https://github.com/thoughtbot/administrate/pull/2506)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
