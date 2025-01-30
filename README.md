@@ -5,8 +5,6 @@ I'm a developer and Team Lead at [thoughtbot][4], where I do a combination of
 leading projects, managing a team and helping clients ship excellent software.
 Talk to me if you're interested in working with us, or joining thoughtbot!
 
-I'm often a bit slow at responding, so give me time, I do get to it eventually.
-
 <table><tr><td valign="top" width="50%">
 
 ### Recent contributions
