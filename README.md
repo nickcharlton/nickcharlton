@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Remove dependabot config in favour of upstream](https://github.com/thoughtbot/suspenders/pull/1247)
+
+![](icons/pull_request_open.svg) [Switch to using yml for generated yaml files](https://github.com/thoughtbot/suspenders/pull/1246)
+
+![](icons/pull_request_open.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/suspenders/pull/1239)
+
+![](icons/pull_request_merged.svg) [Switch to new RSS feed URL](https://github.com/thoughtbot/.github/pull/4)
+
 ![](icons/pull_request_open.svg) [Upgrade Ruby to 3.4.1](https://github.com/nickcharlton/nickcharlton/pull/6)
-
-![](icons/pull_request_merged.svg) [Remove comment about being slow](https://github.com/nickcharlton/nickcharlton/pull/5)
-
-![](icons/issue_closed.svg) [Deprecation warning: `to_time` will always preserve the receive timezone rather than system local time in Rails 8.1](https://github.com/thoughtbot/administrate/issues/2747)
-
-![](icons/pull_request_merged.svg) [Fix missing logger require for Rails 6.x](https://github.com/thoughtbot/administrate/pull/2765)
-
-![](icons/pull_request_open.svg) [Update Bundler to v2.6.3](https://github.com/thoughtbot/administrate/pull/2760)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
