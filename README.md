@@ -10,13 +10,13 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Support for Propshaft](https://github.com/thoughtbot/administrate/issues/2709)
-
-![](icons/pull_request_open.svg) [Remove dependabot config in favour of upstream](https://github.com/thoughtbot/suspenders/pull/1247)
+![](icons/pull_request_open.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/suspenders/pull/1239)
 
 ![](icons/pull_request_open.svg) [Switch to using yml for generated yaml files](https://github.com/thoughtbot/suspenders/pull/1246)
 
-![](icons/pull_request_open.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/suspenders/pull/1239)
+![](icons/pull_request_open.svg) [Remove dependabot config in favour of upstream](https://github.com/thoughtbot/suspenders/pull/1247)
+
+![](icons/issue_open.svg) [Support for Propshaft](https://github.com/thoughtbot/administrate/issues/2709)
 
 ![](icons/pull_request_merged.svg) [Switch to new RSS feed URL](https://github.com/thoughtbot/.github/pull/4)
 
