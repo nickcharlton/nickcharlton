@@ -10,9 +10,9 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_merged.svg) [Add a meta tag for Fediverse author attribution](https://github.com/nickcharlton/site/pull/129)
-
 ![](icons/pull_request_open.svg) [Add support for SQLite](https://github.com/thoughtbot/suspenders/pull/1248)
+
+![](icons/pull_request_merged.svg) [Add a meta tag for Fediverse author attribution](https://github.com/nickcharlton/site/pull/129)
 
 ![](icons/issue_open.svg) [We don't just prefer, but require the use of Postgres](https://github.com/thoughtbot/suspenders/issues/1245)
 
