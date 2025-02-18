@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
+
+![](icons/pull_request_merged.svg) [Force creation of GitHub Actions CI workflow](https://github.com/thoughtbot/suspenders/pull/1249)
+
 ![](icons/pull_request_open.svg) [Add support for SQLite](https://github.com/thoughtbot/suspenders/pull/1248)
 
-![](icons/pull_request_merged.svg) [Add a meta tag for Fediverse author attribution](https://github.com/nickcharlton/site/pull/129)
+![](icons/pull_request_merged.svg) [Remove dependabot config in favour of upstream](https://github.com/thoughtbot/suspenders/pull/1247)
 
-![](icons/issue_open.svg) [We don't just prefer, but require the use of Postgres](https://github.com/thoughtbot/suspenders/issues/1245)
-
-![](icons/pull_request_open.svg) [Add support for Rails 8.0](https://github.com/thoughtbot/suspenders/pull/1239)
-
-![](icons/pull_request_open.svg) [Switch to using yml for generated yaml files](https://github.com/thoughtbot/suspenders/pull/1246)
+![](icons/pull_request_merged.svg) [Switch to using yml for generated yaml files](https://github.com/thoughtbot/suspenders/pull/1246)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
