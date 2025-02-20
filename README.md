@@ -10,9 +10,9 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
-
 ![](icons/pull_request_open.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
+
+![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/pull_request_merged.svg) [Force creation of GitHub Actions CI workflow](https://github.com/thoughtbot/suspenders/pull/1249)
 
