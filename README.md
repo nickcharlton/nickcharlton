@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_closed.svg) [Update Bundler to v2.6.3](https://github.com/thoughtbot/administrate/pull/2760)
+
+![](icons/pull_request_merged.svg) [Update Bundler to v2.6.5](https://github.com/nickcharlton/nickcharlton/pull/8)
+
+![](icons/pull_request_merged.svg) [Upgrade Ruby to 3.4.1](https://github.com/nickcharlton/nickcharlton/pull/6)
+
 ![](icons/pull_request_open.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
 
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
-
-![](icons/pull_request_merged.svg) [Force creation of GitHub Actions CI workflow](https://github.com/thoughtbot/suspenders/pull/1249)
-
-![](icons/pull_request_open.svg) [Add support for SQLite](https://github.com/thoughtbot/suspenders/pull/1248)
-
-![](icons/pull_request_merged.svg) [Remove dependabot config in favour of upstream](https://github.com/thoughtbot/suspenders/pull/1247)
+![](icons/pull_request_merged.svg) [Update Bundler to v2.3.4](https://github.com/nickcharlton/nickcharlton/pull/9)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
