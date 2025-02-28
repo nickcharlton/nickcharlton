@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
+
+![](icons/issue_open.svg) [Suspenders that you take with you](https://github.com/thoughtbot/suspenders/issues/1250)
+
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/pull_request_closed.svg) [Update Bundler to v2.6.3](https://github.com/thoughtbot/administrate/pull/2760)
 
 ![](icons/pull_request_merged.svg) [Update Bundler to v2.6.5](https://github.com/nickcharlton/nickcharlton/pull/8)
-
-![](icons/pull_request_merged.svg) [Upgrade Ruby to 3.4.1](https://github.com/nickcharlton/nickcharlton/pull/6)
-
-![](icons/pull_request_open.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
