@@ -10,11 +10,11 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_merged.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
+![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/issue_open.svg) [Suspenders that you take with you](https://github.com/thoughtbot/suspenders/issues/1250)
 
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
+![](icons/pull_request_merged.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
 
 ![](icons/pull_request_closed.svg) [Update Bundler to v2.6.3](https://github.com/thoughtbot/administrate/pull/2760)
 
