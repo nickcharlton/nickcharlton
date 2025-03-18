@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Restrict attributes shown on the Customer index](https://github.com/thoughtbot/administrate/pull/2810)
+
+![](icons/pull_request_open.svg) [Switch to using the feather icon set](https://github.com/thoughtbot/administrate/pull/2809)
+
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/issue_open.svg) [Suspenders that you take with you](https://github.com/thoughtbot/suspenders/issues/1250)
 
 ![](icons/pull_request_merged.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
-
-![](icons/pull_request_closed.svg) [Update Bundler to v2.6.3](https://github.com/thoughtbot/administrate/pull/2760)
-
-![](icons/pull_request_merged.svg) [Update Bundler to v2.6.5](https://github.com/nickcharlton/nickcharlton/pull/8)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
