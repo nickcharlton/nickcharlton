@@ -10,9 +10,9 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Restrict attributes shown on the Customer index](https://github.com/thoughtbot/administrate/pull/2810)
+![](icons/pull_request_merged.svg) [Restrict attributes shown on the Customer index](https://github.com/thoughtbot/administrate/pull/2810)
 
-![](icons/pull_request_open.svg) [Switch to using the feather icon set](https://github.com/thoughtbot/administrate/pull/2809)
+![](icons/pull_request_merged.svg) [Switch to using the feather icon set](https://github.com/thoughtbot/administrate/pull/2809)
 
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
