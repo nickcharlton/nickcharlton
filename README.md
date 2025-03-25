@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_merged.svg) [Restrict attributes shown on the Customer index](https://github.com/thoughtbot/administrate/pull/2810)
+![](icons/pull_request_merged.svg) [Remove Travis CI configuration](https://github.com/thoughtbot/terrapin/pull/47)
 
-![](icons/pull_request_merged.svg) [Switch to using the feather icon set](https://github.com/thoughtbot/administrate/pull/2809)
+![](icons/pull_request_merged.svg) [Fix the stderr test](https://github.com/thoughtbot/terrapin/pull/46)
 
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
+![](icons/pull_request_merged.svg) [Add Ruby 3.3, 3.4 to the build matrix](https://github.com/thoughtbot/terrapin/pull/45)
 
-![](icons/issue_open.svg) [Suspenders that you take with you](https://github.com/thoughtbot/suspenders/issues/1250)
+![](icons/pull_request_merged.svg) [Upgrade actions/checkout from v2 to v4](https://github.com/thoughtbot/terrapin/pull/44)
 
-![](icons/pull_request_merged.svg) [Use Pundit for authorization](https://github.com/thoughtbot/guides/pull/720)
+![](icons/pull_request_merged.svg) [Upgrade JRuby to 9.4.12.0](https://github.com/thoughtbot/terrapin/pull/43)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
