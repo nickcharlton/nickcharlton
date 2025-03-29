@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
+![](icons/pull_request_merged.svg) [Remove outdated email guides](https://github.com/thoughtbot/guides/pull/731)
 
-![](icons/pull_request_merged.svg) [Remove Travis CI configuration](https://github.com/thoughtbot/terrapin/pull/47)
+![](icons/pull_request_open.svg) [Treat version history as a resource](https://github.com/thoughtbot/guides/pull/734)
 
-![](icons/pull_request_merged.svg) [Fix the stderr test](https://github.com/thoughtbot/terrapin/pull/46)
+![](icons/pull_request_open.svg) [Start recommending baseline feature support](https://github.com/thoughtbot/guides/pull/732)
 
-![](icons/pull_request_merged.svg) [Add Ruby 3.3, 3.4 to the build matrix](https://github.com/thoughtbot/terrapin/pull/45)
+![](icons/pull_request_open.svg) [Write commit messages for humans](https://github.com/thoughtbot/guides/pull/735)
 
-![](icons/pull_request_merged.svg) [Upgrade actions/checkout from v2 to v4](https://github.com/thoughtbot/terrapin/pull/44)
+![](icons/pull_request_open.svg) [Remove CoffeeScript guides](https://github.com/thoughtbot/guides/pull/727)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
