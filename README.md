@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Remove Handlebars guides](https://github.com/thoughtbot/guides/pull/729)
+
+![](icons/pull_request_merged.svg) [Start recommending baseline feature support](https://github.com/thoughtbot/guides/pull/732)
+
+![](icons/pull_request_merged.svg) [Remove CoffeeScript guides](https://github.com/thoughtbot/guides/pull/727)
+
 ![](icons/pull_request_open.svg) [Write commit messages for humans](https://github.com/thoughtbot/guides/pull/735)
 
-![](icons/pull_request_open.svg) [Remove Handlebars guides](https://github.com/thoughtbot/guides/pull/729)
-
 ![](icons/pull_request_merged.svg) [Remove outdated email guides](https://github.com/thoughtbot/guides/pull/731)
-
-![](icons/pull_request_open.svg) [Treat version history as a resource](https://github.com/thoughtbot/guides/pull/734)
-
-![](icons/pull_request_open.svg) [Start recommending baseline feature support](https://github.com/thoughtbot/guides/pull/732)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
