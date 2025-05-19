@@ -10,7 +10,7 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Add post on static files on Kubernetes](https://github.com/nickcharlton/site/pull/130)
+![](icons/pull_request_merged.svg) [Add post on static files on Kubernetes](https://github.com/nickcharlton/site/pull/130)
 
 ![](icons/pull_request_merged.svg) [Upgrade Node to v22.15.0](https://github.com/thoughtbot/stylelint-config/pull/85)
 
@@ -26,6 +26,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Blog posts
 
 <!-- blog starts -->
+[Static files with Nginx, Docker & Kubernetes](https://nickcharlton.net/posts/static-files-nginx-docker-kubernetes.html)
+
 [Two sides and four columns of A5: or a technique to help with too many projects](https://nickcharlton.net/posts/two-sides-and-four-columns-of-5-a-technique-to-help-with-too-many-projects.html)
 
 [Configuring a serial console on Debian 12](https://nickcharlton.net/posts/configuring-serial-console-debian-12.html)
@@ -33,8 +35,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 [Installing Debian 12 on a Dell Wyse 3040 Thin Client](https://nickcharlton.net/posts/installing-debian-12-dell-wyse-3040.html)
 
 [On the path to Administrate v1](https://nickcharlton.net/posts/path-to-administate-v1.html)
-
-[Automating barcode scanner tests with Capybara](https://nickcharlton.net/posts/automating-barcode-scanner-tests-with-capybara.html)
 
 <!-- blog ends -->
 </td></tr></table>
