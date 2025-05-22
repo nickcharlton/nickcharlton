@@ -10,6 +10,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Add post on combining secret values](https://github.com/nickcharlton/site/pull/131)
+
 ![](icons/pull_request_merged.svg) [Add post on static files on Kubernetes](https://github.com/nickcharlton/site/pull/130)
 
 ![](icons/pull_request_merged.svg) [Upgrade Node to v22.15.0](https://github.com/thoughtbot/stylelint-config/pull/85)
@@ -17,8 +19,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ![](icons/pull_request_merged.svg) [Specify Node version manually](https://github.com/thoughtbot/stylelint-config/pull/87)
 
 ![](icons/pull_request_merged.svg) [Upgrade actions/checkout from v3 to v4](https://github.com/thoughtbot/stylelint-config/pull/86)
-
-![](icons/pull_request_open.svg) [Write commit messages for humans](https://github.com/thoughtbot/guides/pull/735)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
