@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [JRuby reflective access & deprecation warnings](https://github.com/thoughtbot/appraisal/issues/163)
+
+![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
+
 ![](icons/issue_open.svg) [Support for Propshaft](https://github.com/thoughtbot/administrate/issues/2709)
 
 ![](icons/pull_request_open.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
 
 ![](icons/pull_request_draft.svg) [Introduce acceptance testing](https://github.com/thoughtbot/administrate/pull/2830)
-
-![](icons/pull_request_open.svg) [Add post on combining secret values](https://github.com/nickcharlton/site/pull/131)
-
-![](icons/pull_request_merged.svg) [Add post on static files on Kubernetes](https://github.com/nickcharlton/site/pull/130)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
