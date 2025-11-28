@@ -10,6 +10,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [Updating guides on generating definitions](https://github.com/ruby-protobuf/protobuf/issues/435)
+
 ![](icons/issue_open.svg) [Experimenting with discussions](https://github.com/thoughtbot/administrate/issues/2932)
 
 ![](icons/pull_request_merged.svg) [Upgrade default Ruby from 3.4.1 to 3.4.6](https://github.com/thoughtbot/administrate/pull/2900)
@@ -17,8 +19,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ![](icons/issue_open.svg) [Pull in administrate-field_active_storage](https://github.com/thoughtbot/administrate/issues/2899)
 
 ![](icons/pull_request_draft.svg) [Introduce acceptance testing](https://github.com/thoughtbot/administrate/pull/2830)
-
-![](icons/pull_request_merged.svg) [Add a guide for Migrating to v1](https://github.com/thoughtbot/administrate/pull/2518)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
