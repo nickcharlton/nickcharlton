@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Add support for SQLite](https://github.com/thoughtbot/suspenders/pull/1248)
+
+![](icons/issue_closed.svg) [Suspenders that you take with you](https://github.com/thoughtbot/suspenders/issues/1250)
+
+![](icons/issue_closed.svg) [We don't just prefer, but require the use of Postgres](https://github.com/thoughtbot/suspenders/issues/1245)
+
 ![](icons/issue_open.svg) [Replace Selectize with a web component](https://github.com/thoughtbot/administrate/issues/2958)
 
 ![](icons/issue_open.svg) [Updating guides on generating definitions](https://github.com/ruby-protobuf/protobuf/issues/435)
-
-![](icons/issue_open.svg) [Experimenting with discussions](https://github.com/thoughtbot/administrate/issues/2932)
-
-![](icons/pull_request_merged.svg) [Upgrade default Ruby from 3.4.1 to 3.4.6](https://github.com/thoughtbot/administrate/pull/2900)
-
-![](icons/issue_open.svg) [Pull in administrate-field_active_storage](https://github.com/thoughtbot/administrate/issues/2899)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
