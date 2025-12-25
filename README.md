@@ -10,7 +10,7 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Add support for SQLite](https://github.com/thoughtbot/suspenders/pull/1248)
+![](icons/pull_request_closed.svg) [Add support for SQLite](https://github.com/thoughtbot/suspenders/pull/1248)
 
 ![](icons/issue_closed.svg) [Suspenders that you take with you](https://github.com/thoughtbot/suspenders/issues/1250)
 
