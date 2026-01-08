@@ -10,6 +10,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_open.svg) [Replace Selectize with a web component](https://github.com/thoughtbot/administrate/issues/2958)
+
 ![](icons/pull_request_open.svg) [Introduce YARD-Lint](https://github.com/thoughtbot/administrate/pull/2964)
 
 ![](icons/pull_request_merged.svg) [Start testing against Ruby 4.0.0](https://github.com/thoughtbot/administrate/pull/2963)
@@ -17,8 +19,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ![](icons/pull_request_closed.svg) [Add support for SQLite](https://github.com/thoughtbot/suspenders/pull/1248)
 
 ![](icons/issue_closed.svg) [Suspenders that you take with you](https://github.com/thoughtbot/suspenders/issues/1250)
-
-![](icons/issue_closed.svg) [We don't just prefer, but require the use of Postgres](https://github.com/thoughtbot/suspenders/issues/1245)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
