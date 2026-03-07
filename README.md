@@ -10,6 +10,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Replace demo link with a relative link](https://github.com/thoughtbot/administrate/pull/2997)
+
 ![](icons/pull_request_open.svg) [Treat version history as a resource](https://github.com/thoughtbot/guides/pull/734)
 
 ![](icons/issue_open.svg) [Pull in administrate-field_active_storage](https://github.com/thoughtbot/administrate/issues/2899)
@@ -17,8 +19,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ![](icons/pull_request_open.svg) [Fix Sentry configuration](https://github.com/thoughtbot/administrate/pull/2977)
 
 ![](icons/issue_open.svg) [Replace Selectize with a web component](https://github.com/thoughtbot/administrate/issues/2958)
-
-![](icons/pull_request_open.svg) [Introduce YARD-Lint](https://github.com/thoughtbot/administrate/pull/2964)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
