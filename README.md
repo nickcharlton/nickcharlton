@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Add post on Vodafone mobile broadband dongle](https://github.com/nickcharlton/site/pull/134)
+
+![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
+
+![](icons/pull_request_merged.svg) [Add post on "Working with Raspberry Pi images"](https://github.com/nickcharlton/site/pull/133)
+
 ![](icons/pull_request_merged.svg) [Add post on combining secret values](https://github.com/nickcharlton/site/pull/131)
 
 ![](icons/pull_request_open.svg) [Replace demo link with a relative link](https://github.com/thoughtbot/administrate/pull/2997)
-
-![](icons/pull_request_open.svg) [Treat version history as a resource](https://github.com/thoughtbot/guides/pull/734)
-
-![](icons/issue_open.svg) [Pull in administrate-field_active_storage](https://github.com/thoughtbot/administrate/issues/2899)
-
-![](icons/pull_request_open.svg) [Fix Sentry configuration](https://github.com/thoughtbot/administrate/pull/2977)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
@@ -26,6 +26,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Blog posts
 
 <!-- blog starts -->
+[Working with Raspberry Pi images](https://nickcharlton.net/posts/working-with-raspberry-pi-images.html)
+
 [Combining secret values in files on Kubernetes](https://nickcharlton.net/posts/combining-secret-values-in-files-on-kubernetes.html)
 
 [Static files with Nginx, Docker & Kubernetes](https://nickcharlton.net/posts/static-files-nginx-docker-kubernetes.html)
@@ -33,8 +35,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 [Two sides and four columns of A5: or a technique to help with too many projects](https://nickcharlton.net/posts/two-sides-and-four-columns-of-5-a-technique-to-help-with-too-many-projects.html)
 
 [Configuring a serial console on Debian 12](https://nickcharlton.net/posts/configuring-serial-console-debian-12.html)
-
-[Installing Debian 12 on a Dell Wyse 3040 Thin Client](https://nickcharlton.net/posts/installing-debian-12-dell-wyse-3040.html)
 
 <!-- blog ends -->
 </td></tr></table>
