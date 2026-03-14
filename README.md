@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Introduce YARD-Lint](https://github.com/thoughtbot/administrate/pull/2964)
+
+![](icons/pull_request_merged.svg) [Fix Sentry configuration](https://github.com/thoughtbot/administrate/pull/2977)
+
 ![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 ![](icons/pull_request_merged.svg) [Add post on Vodafone mobile broadband dongle](https://github.com/nickcharlton/site/pull/134)
 
 ![](icons/pull_request_merged.svg) [Add post on "Working with Raspberry Pi images"](https://github.com/nickcharlton/site/pull/133)
-
-![](icons/pull_request_merged.svg) [Add post on combining secret values](https://github.com/nickcharlton/site/pull/131)
-
-![](icons/pull_request_open.svg) [Replace demo link with a relative link](https://github.com/thoughtbot/administrate/pull/2997)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
