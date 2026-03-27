@@ -10,9 +10,9 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_merged.svg) [Replace demo link with a relative link](https://github.com/thoughtbot/administrate/pull/2997)
-
 ![](icons/issue_open.svg) [Sentry error: Missing Active Storage service name](https://github.com/thoughtbot/administrate/issues/3010)
+
+![](icons/pull_request_merged.svg) [Replace demo link with a relative link](https://github.com/thoughtbot/administrate/pull/2997)
 
 ![](icons/pull_request_open.svg) [Introduce YARD-Lint](https://github.com/thoughtbot/administrate/pull/2964)
 
