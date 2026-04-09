@@ -10,6 +10,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_merged.svg) [Add Neovim v0.11.7](https://github.com/nickcharlton/homebrew-archive/pull/1)
+
 ![](icons/issue_open.svg) [Sentry error: Missing Active Storage service name](https://github.com/thoughtbot/administrate/issues/3010)
 
 ![](icons/pull_request_merged.svg) [Replace demo link with a relative link](https://github.com/thoughtbot/administrate/pull/2997)
@@ -17,8 +19,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ![](icons/pull_request_open.svg) [Introduce YARD-Lint](https://github.com/thoughtbot/administrate/pull/2964)
 
 ![](icons/pull_request_merged.svg) [Fix Sentry configuration](https://github.com/thoughtbot/administrate/pull/2977)
-
-![](icons/issue_open.svg) [Appraisal v3](https://github.com/thoughtbot/appraisal/issues/204)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
