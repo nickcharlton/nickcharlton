@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/issue_closed.svg) [Sentry error: Missing Active Storage service name](https://github.com/thoughtbot/administrate/issues/3010)
+
+![](icons/pull_request_merged.svg) [Set ActiveStorage to use the local disk](https://github.com/thoughtbot/administrate/pull/3040)
+
 ![](icons/pull_request_merged.svg) [Add Prometheus remote write example project post](https://github.com/nickcharlton/site/pull/136)
 
 ![](icons/pull_request_merged.svg) [Add Neovim v0.11.7](https://github.com/nickcharlton/homebrew-archive/pull/1)
 
-![](icons/issue_open.svg) [Sentry error: Missing Active Storage service name](https://github.com/thoughtbot/administrate/issues/3010)
-
 ![](icons/pull_request_merged.svg) [Replace demo link with a relative link](https://github.com/thoughtbot/administrate/pull/2997)
-
-![](icons/pull_request_open.svg) [Introduce YARD-Lint](https://github.com/thoughtbot/administrate/pull/2964)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
