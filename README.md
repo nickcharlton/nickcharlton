@@ -10,15 +10,15 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Upgrade Node to v24.19.0](https://github.com/thoughtbot/administrate/pull/3058)
+![](icons/pull_request_merged.svg) [Upgrade Node to v24.19.0](https://github.com/thoughtbot/administrate/pull/3058)
+
+![](icons/pull_request_merged.svg) [Pin JSON < 3 for older Rails to fix quirks_mode](https://github.com/thoughtbot/administrate/pull/3073)
 
 ![](icons/pull_request_draft.svg) [Introduce acceptance testing](https://github.com/thoughtbot/administrate/pull/2830)
 
 ![](icons/pull_request_merged.svg) [Remove the bundle audit action](https://github.com/thoughtbot/administrate/pull/3059)
 
 ![](icons/pull_request_merged.svg) [Fix Appraisals requiring ruby-vips](https://github.com/thoughtbot/administrate/pull/3062)
-
-![](icons/issue_open.svg) [Add support for Mosscap (Rails-fork previously known as Amiko)](https://github.com/thoughtbot/administrate/issues/3061)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
