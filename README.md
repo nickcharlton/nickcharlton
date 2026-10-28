@@ -10,9 +10,9 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
-![](icons/pull_request_open.svg) [Add Ruby 4.0.9](https://github.com/postmodern/ruby-versions/pull/124)
+![](icons/pull_request_merged.svg) [Add Ruby 4.0.9](https://github.com/postmodern/ruby-versions/pull/124)
 
-![](icons/pull_request_open.svg) [Add Ruby 4.0.8](https://github.com/postmodern/ruby-versions/pull/123)
+![](icons/pull_request_merged.svg) [Add Ruby 4.0.8](https://github.com/postmodern/ruby-versions/pull/123)
 
 ![](icons/pull_request_merged.svg) [Add Vagrant Metadata Server post](https://github.com/nickcharlton/site/pull/138)
 
