@@ -10,6 +10,8 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ### Recent contributions
 
 <!-- contributions starts -->
+![](icons/pull_request_open.svg) [Write commit messages for humans](https://github.com/thoughtbot/guides/pull/735)
+
 ![](icons/pull_request_merged.svg) [Add Ruby 4.0.9](https://github.com/postmodern/ruby-versions/pull/124)
 
 ![](icons/pull_request_merged.svg) [Add Ruby 4.0.8](https://github.com/postmodern/ruby-versions/pull/123)
@@ -17,8 +19,6 @@ Talk to me if you're interested in working with us, or joining thoughtbot!
 ![](icons/pull_request_merged.svg) [Add Vagrant Metadata Server post](https://github.com/nickcharlton/site/pull/138)
 
 ![](icons/pull_request_merged.svg) [Upgrade Node to v24.19.0](https://github.com/thoughtbot/administrate/pull/3058)
-
-![](icons/pull_request_merged.svg) [Pin JSON < 3 for older Rails to fix quirks_mode](https://github.com/thoughtbot/administrate/pull/3073)
 
 <!-- contributions ends -->
 </td><td valign="top" width="50%">
